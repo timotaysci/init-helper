@@ -8,6 +8,5 @@ googleAnalytics: "G-123456"
 params:
   tagline: "Get help with your emacs config."
 
-  linkedin: "https://www.linkedin.com/company/MyNewProduct"
-  github: "https://github.com/MyNewProduct"
+  github: "https://github.com/timotaysci/init-helper"
 
